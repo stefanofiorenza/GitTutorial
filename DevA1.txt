@@ -1,3 +1,4 @@
 taskA3
 taskA2
 taskA5
+taskA6
